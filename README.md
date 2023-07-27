@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Brijesh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/brijesh kumar verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brijesh kumar verma" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/brijesh26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brijesh kumar verma" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/brijesh-kumar-verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="brijesh-kumar-verma" height="30" width="40" /></a>
 <a href="https://instagram.com/__brijesh26__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__brijesh26__" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/looser_no_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="looser_no_1" height="30" width="40" /></a>
