@@ -14,8 +14,6 @@
  
 - Project 3- [https://github.com/Brijesh-26/food_delivery_api]
 
-- 🌱 I’m currently learning **Django**
-
 - 💬 Ask me about **flutter, django, html, css, javascript**
 
 - 📫 How to reach me **brijeshkumarv598@gmail.com**
