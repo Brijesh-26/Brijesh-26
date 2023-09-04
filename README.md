@@ -6,7 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brijesh-26&label=Profile%20views&color=0e75b6&style=flat" alt="brijesh-26" /> </p>
 
-- 🔭 I’m currently working on **JWT authentication**
+- 🔭 I’m currently learning on **javascript**
+
+- Project 1- [https://github.com/Brijesh-26/video_streamin_gito]
+
+- Project 2- [https://github.com/Brijesh-26/e-cart]
+ 
+- Project 3- [https://github.com/Brijesh-26/food_delivery_api]
 
 - 🌱 I’m currently learning **Django**
 
