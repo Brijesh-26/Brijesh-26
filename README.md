@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brijesh-26&label=Profile%20views&color=0e75b6&style=flat" alt="brijesh-26" /> </p>
 
-- 🔭 I’m currently learning **javascript**
+- 🔭 I’m currently learning **golang**
 
 - Project 1- [https://github.com/Brijesh-26/video_streamin_gito]
 
